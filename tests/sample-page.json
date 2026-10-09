@@ -1,0 +1,124 @@
+[
+  {
+    "type": "hero",
+    "data": {
+      "title": "مرحباً بك في عالم البرمجة",
+      "subtitle": "نقدم لك أفضل الحلول التقنية لمشاريعك الرقمية بأعلى جودة وأسرع وقت",
+      "btn_text": "ابدأ الآن",
+      "btn_url": "#pricing",
+      "bg_color": "#0f172a",
+      "bg_image": ""
+    }
+  },
+  {
+    "type": "features",
+    "data": {
+      "title": "لماذا تختارنا؟",
+      "feature_1_title": "تصميم احترافي",
+      "feature_1_desc": "نصمم مواقع حديثة ومتجاوبة مع جميع الأجهزة",
+      "feature_1_icon": "🎨",
+      "feature_2_title": "أداء عالي",
+      "feature_2_desc": "مواقع سريعة التحميل ومحسّنة لمحركات البحث",
+      "feature_2_icon": "⚡",
+      "feature_3_title": "دعم مستمر",
+      "feature_3_desc": "فريق دعم فني متاح على مدار الساعة لمساعدتك",
+      "feature_3_icon": "🛟"
+    }
+  },
+  {
+    "type": "spacer",
+    "data": {
+      "height": "30"
+    }
+  },
+  {
+    "type": "text_image",
+    "data": {
+      "title": "من نحن",
+      "content": "فريق متخصص في تطوير المواقع والتطبيقات بخبرة تزيد عن 10 سنوات. نعمل مع عملاء من مختلف القطاعات لتحقيق أهدافهم الرقمية.",
+      "image": "https://placehold.co/600x400/1e293b/e2e8f0?text=About+Us",
+      "layout": "image-right"
+    }
+  },
+  {
+    "type": "testimonials",
+    "data": {
+      "title": "ماذا يقول عملاؤنا",
+      "person_1_name": "أحمد محمد",
+      "person_1_quote": "خدمة ممتازة وفريق محترف. الموقع تجاوز توقعاتي بمراحل.",
+      "person_2_name": "سارة العلي",
+      "person_2_quote": "سرعة في التنفيذ وجودة عالية. أنصح الجميع بالتعامل معهم.",
+      "person_3_name": "خالد الحربي",
+      "person_3_quote": "دعم فني ممتاز ومتابعة مستمرة حتى بعد تسليم المشروع."
+    }
+  },
+  {
+    "type": "pricing",
+    "data": {
+      "title": "خطط الأسعار",
+      "plan_1_name": "الأساسية",
+      "plan_1_price": "99 ريال/شهر",
+      "plan_1_features": "صفحة واحدة\nتصميم متجاوب\nدعم بالبريد\nSSL مجاني",
+      "plan_1_btn_text": "اختر الخطة",
+      "plan_1_btn_url": "#contact",
+      "plan_2_name": "الاحترافية",
+      "plan_2_price": "249 ريال/شهر",
+      "plan_2_features": "5 صفحات\nتصميم متجاوب\nدعم أولوية\nSSL مجاني\nSEO أساسي\nلوحة تحكم",
+      "plan_2_btn_text": "اختر الخطة",
+      "plan_2_btn_url": "#contact",
+      "plan_3_name": "المتقدمة",
+      "plan_3_price": "499 ريال/شهر",
+      "plan_3_features": "صفحات غير محدودة\nتصميم مخصص\nدعم 24/7\nSSL مجاني\nSEO متقدم\nلوحة تحكم\nتقارير شهرية",
+      "plan_3_btn_text": "اختر الخطة",
+      "plan_3_btn_url": "#contact"
+    }
+  },
+  {
+    "type": "gallery",
+    "data": {
+      "title": "أعمالنا",
+      "columns": "3",
+      "images": "https://placehold.co/400x300/3b82f6/ffffff?text=Project+1\nhttps://placehold.co/400x300/10b981/ffffff?text=Project+2\nhttps://placehold.co/400x300/f59e0b/ffffff?text=Project+3\nhttps://placehold.co/400x300/ef4444/ffffff?text=Project+4\nhttps://placehold.co/400x300/8b5cf6/ffffff?text=Project+5\nhttps://placehold.co/400x300/06b6d4/ffffff?text=Project+6"
+    }
+  },
+  {
+    "type": "cta",
+    "data": {
+      "title": "جاهز تبدأ مشروعك؟",
+      "content": "تواصل معنا اليوم واحصل على استشارة مجانية لمشروعك القادم",
+      "btn_text": "تواصل معنا",
+      "btn_url": "#contact",
+      "bg_color": "#2563eb"
+    }
+  },
+  {
+    "type": "faq",
+    "data": {
+      "title": "أسئلة شائعة",
+      "q_1": "كم يستغرق تصميم الموقع؟",
+      "a_1": "يعتمد على حجم المشروع، عادة بين أسبوع إلى 4 أسابيع.",
+      "q_2": "هل تقدمون خدمة الاستضافة؟",
+      "a_2": "نعم، نوفر استضافة سريعة وآمنة مع جميع الخطط.",
+      "q_3": "هل يمكنني تعديل الموقع بنفسي؟",
+      "a_3": "بالتأكيد! جميع مواقعنا تأتي مع لوحة تحكم سهلة الاستخدام.",
+      "q_4": "ما هي طرق الدفع المتاحة؟",
+      "a_4": "نقبل التحويل البنكي، مدى، فيزا، وماستركارد.",
+      "q_5": "هل تقدمون ضمان استرجاع؟",
+      "a_5": "نعم، نقدم ضمان استرجاع كامل خلال 30 يوم إذا لم تكن راضياً."
+    }
+  },
+  {
+    "type": "contact",
+    "data": {
+      "title": "تواصل معنا",
+      "email": "info@example.com",
+      "content": "نسعد بتواصلكم. أرسل لنا رسالة وسنرد عليك خلال 24 ساعة."
+    }
+  },
+  {
+    "type": "html",
+    "data": {
+      "code": "<div style=\"text-align:center;padding:20px;background:#f8fafc;border-radius:8px;\"><p style=\"color:#64748b;font-size:14px;\">© 2026 جميع الحقوق محفوظة | صُنع بـ ❤️ بواسطة Alawi Builder</p></div>"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+#alawi-builder-wrap { margin-top: 15px; }
+.alawi-palette-blocks { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 20px; }
+.alawi-palette-block { padding: 8px 16px; background: #2563eb; color: #fff; border-radius: 4px; cursor: grab; font-size: 13px; user-select: none; }
+.alawi-palette-block:active { cursor: grabbing; }
+.alawi-canvas { min-height: 200px; border: 2px dashed #ccc; border-radius: 6px; padding: 15px; background: #fafafa; }
+.alawi-canvas-empty { text-align: center; padding: 60px; color: #999; font-size: 14px; }
+.alawi-block-item { background: #fff; border: 1px solid #ddd; border-radius: 6px; margin-bottom: 10px; }
+.alawi-block-header { display: flex; align-items: center; padding: 10px 15px; background: #f1f5f9; border-radius: 6px 6px 0 0; gap: 10px; }
+.alawi-block-drag-handle { cursor: grab; font-size: 16px; }
+.alawi-block-title { flex: 1; font-weight: 600; }
+.alawi-block-toggle, .alawi-block-remove { background: none; border: none; cursor: pointer; font-size: 14px; padding: 4px 8px; }
+.alawi-block-remove { color: #dc2626; }
+.alawi-block-content { padding: 15px; }
+.alawi-block-content.collapsed { display: none; }
